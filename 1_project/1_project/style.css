@@ -1,0 +1,30 @@
+
+		p {
+			color:blue;
+			font-size: 40px;
+            margin: 50px;
+		}
+		a {
+			text-decoration: none; 
+			font-size: 40px;
+
+			color: blue;
+			font-size: 60px;
+		}
+
+		h1 {
+			color: blue;
+			font-size: 60px;
+		}
+		
+		div {
+			width: 50%; 
+			margin: auto;
+			background-color: #54E346;
+			box-shadow: 0 0 10px 5px rgba(0,0,0,0.3)
+		}
+		img {
+			max-width: 100%;
+			height: auto;
+			display: block; 
+		}
